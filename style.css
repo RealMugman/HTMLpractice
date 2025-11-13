@@ -4,6 +4,8 @@ body{
     color: hsl(0, 0%, 100%);
     margin: 120px;
     text-align:center;
+    background-image:url('fig.jpeg');
+    cursor: url('12.png') 8 8, auto;
 }
 
 h1 {
@@ -27,4 +29,13 @@ table {
     background-color:white;
     color:brown;
     margin: 0 auto 10px auto;
+}
+th, td {
+    
+}
+
+a {color: yellow;
+}
+a:hover{ 
+    color: green;
 }
